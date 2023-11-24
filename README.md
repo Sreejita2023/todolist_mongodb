@@ -1,2 +1,2 @@
 # todolist_mongodb
-npm rn dev
+npm run dev
